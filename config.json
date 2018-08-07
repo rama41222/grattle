@@ -1,0 +1,8 @@
+{
+  "amqp": "amqp://node:node@123@localhost",
+  "queue": "sms-amqp",
+  "server": {
+    "port": 5672,
+    "host": "localhost"
+  }
+}
